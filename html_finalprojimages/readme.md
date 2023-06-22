@@ -1,0 +1,12 @@
+CSS3.png
+bullet.png
+checkmark--outline.svg
+envelope.png
+flash.png
+home.png
+html5.png
+java.png
+js.jpeg
+node.png
+phone.png
+react.png
